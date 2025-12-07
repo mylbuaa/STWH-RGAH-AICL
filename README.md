@@ -1,4 +1,4 @@
-# STWH-RGAH-CAMCL
+# STWH-RGAH-AICL
 
 
 Code for the paper 'Interpretable Multimodal Hypergraph Network via Affinity-Induced Coupled Learning for Brain Disorder Analysis' is coming soon. Further details will be disclosed after the paper is accepted.  
